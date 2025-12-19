@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Fun English - What Do We Eat?",
+  "description": "An interactive English learning application for Grade 3 students, based on the 'What do we eat?' curriculum. Features interactive vocabulary, dialogues, phonics games, and AI-powered audio feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
